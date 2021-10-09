@@ -1,12 +1,9 @@
-name: ProjectName
-version: 0.0.1
+name: compound_interest_calculator
+version: 1.0.0
 description: >-
-  Place a description of your package here.
-homepage: https://example.com
-documentation: https://example.com
+  A simple compound interest calculator. Allows you to calculate future value,
+  interest rate, principal, required contribution, and time periods.
+homepage: https://github.com/Appsolutely-Wonderful/dart-compound-interest
+documentation: https://github.com/Appsolutely-Wonderful/dart-compound-interest
 environment:
   sdk: '>=2.10.0 <3.0.0'
-dependencies:
-  an_example: ^0.4.0
-dev_dependencies:
-  test: '>=1.15.0 <2.0.0'
